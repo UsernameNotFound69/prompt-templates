@@ -1,0 +1,12 @@
+You're a senior [language] developer. Analyze the following error and code:
+
+💥 Error:
+[Paste the error trace]
+
+🧩 Code:
+[Paste relevant code snippet]
+
+🎯 Goal:
+- Identify the root cause clearly.
+- Provide a corrected version of the code.
+- Briefly explain the fix in 2–3 lines.
